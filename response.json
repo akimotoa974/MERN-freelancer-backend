@@ -1,0 +1,359 @@
+[
+    {
+        "name": "Purchases of goods test",
+        "id": "1",
+        "key": "1",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": 2,
+        "childrens": null,
+        "parent": "0",
+        "uploadPath": "Expenses \/ Purchases of goods test",
+        "subfolders": [
+            {
+                "name": "g1",
+                "id": "d787f419-1d7c-4eb5-98a0-3c48be0f1c49",
+                "key": "d787f419-1d7c-4eb5-98a0-3c48be0f1c49",
+                "type": "folder",
+                "owner": "user",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "1",
+                "uploadPath": "Expenses \/ g1",
+                "subfolders": [
+                    {
+                        "slno": "2",
+                        "type": "file",
+                        "parentNode": "d787f419-1d7c-4eb5-98a0-3c48be0f1c49",
+                        "uploadPath": "Expenses \/ Purchases of goods test \/ g1",
+                        "filename": "2",
+                        "invoice_date": "2021-10-23",
+                        "amount": "3",
+                        "paymentMethod": "1",
+                        "vat25": null,
+                        "vat37": "0.11",
+                        "vat77": null,
+                        "year": "2021",
+                        "created": "2021-10-23 13:42:10",
+                        "key": "55558624-99a0-49ea-9fb4-32893568cfcc",
+                        "name": "G1in",
+                        "owner": "user",
+                        "invoiceImageThumb": "https:\/\/res.cloudinary.com\/dwlwzeheq\/image\/upload\/v1634996532\/fidhappy\/invoices\/1\/expenses\/55558624-99a0-49ea-9fb4-32893568cfcc\/snoz4ci3sh7zfd24xjah.jpg",
+                        "invoiceImageView": "https:\/\/res.cloudinary.com\/dwlwzeheq\/image\/upload\/v1634996532\/fidhappy\/invoices\/1\/expenses\/55558624-99a0-49ea-9fb4-32893568cfcc\/snoz4ci3sh7zfd24xjah.jpg",
+                        "invoiceImage": "https:\/\/res.cloudinary.com\/dwlwzeheq\/image\/upload\/v1634996532\/fidhappy\/invoices\/1\/expenses\/55558624-99a0-49ea-9fb4-32893568cfcc\/snoz4ci3sh7zfd24xjah.jpg",
+                        "invoiceId": "55558624-99a0-49ea-9fb4-32893568cfcc",
+                        "invoiceType": "1",
+                        "uploadPathString": "Expenses \/ Purchases of goods test \/ g1"
+                    }
+                ]
+            },
+            {
+                "name": "g2",
+                "id": "f6968139-fb7c-4823-8b9f-9b8c385e6ca3",
+                "key": "f6968139-fb7c-4823-8b9f-9b8c385e6ca3",
+                "type": "folder",
+                "owner": "user",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "1",
+                "uploadPath": "Expenses \/ g2"
+            }
+        ]
+    },
+    {
+        "name": "Staff costs",
+        "id": "2",
+        "key": "2",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "2",
+        "childrens": "3,4,5,6,7,8,9",
+        "parent": "0",
+        "uploadPath": "Expenses \/ Staff costs",
+        "subfolders": [
+            {
+                "name": "Salaries",
+                "id": "3",
+                "key": "3",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "2",
+                "childrens": "25",
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Salaries",
+                "subfolders": [
+                    {
+                        "name": "Managers",
+                        "id": "25",
+                        "key": "25",
+                        "type": "folder",
+                        "owner": "admin",
+                        "hasChild": "1",
+                        "childrens": null,
+                        "parent": "3",
+                        "uploadPath": "Expenses \/ Staff costs \/ Salaries \/ Managers"
+                    }
+                ]
+            },
+            {
+                "name": "Social insurance benefits",
+                "id": "4",
+                "key": "4",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Social insurance benefits"
+            },
+            {
+                "name": "AVS, AI, APG, unemployment insurance",
+                "id": "5",
+                "key": "5",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ AVS, AI, APG, unemployment insurance"
+            },
+            {
+                "name": "Occupational pension",
+                "id": "6",
+                "key": "6",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Occupational pension"
+            },
+            {
+                "name": "Accident insurance",
+                "id": "7",
+                "key": "7",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Accident insurance"
+            },
+            {
+                "name": "Daily allowance insurance in the event of illness",
+                "id": "8",
+                "key": "8",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Daily allowance insurance in the event of illness"
+            },
+            {
+                "name": "Temporary employees",
+                "id": "9",
+                "key": "9",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "2",
+                "uploadPath": "Expenses \/ Staff costs \/ Temporary employees"
+            }
+        ]
+    },
+    {
+        "name": "RENTS",
+        "id": "10",
+        "key": "10",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "1",
+        "childrens": null,
+        "parent": "0",
+        "uploadPath": "Expenses \/ RENTS"
+    },
+    {
+        "name": "Vehicle costs",
+        "id": "11",
+        "key": "11",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "2",
+        "childrens": "12,13,14",
+        "parent": "0",
+        "uploadPath": "Expenses \/ Vehicle costs",
+        "subfolders": [
+            {
+                "name": "Repair, service and cleaning",
+                "id": "12",
+                "key": "12",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "11",
+                "uploadPath": "Expenses \/ Vehicle costs \/ Repair, service and cleaning"
+            },
+            {
+                "name": "Fuels",
+                "id": "13",
+                "key": "13",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "11",
+                "uploadPath": "Expenses \/ Vehicle costs \/ Fuels"
+            },
+            {
+                "name": "Insurance and taxes",
+                "id": "14",
+                "key": "14",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "11",
+                "uploadPath": "Expenses \/ Vehicle costs \/ Insurance and taxes"
+            }
+        ]
+    },
+    {
+        "name": "INSURANCE",
+        "id": "15",
+        "key": "15",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "1",
+        "childrens": null,
+        "parent": "0",
+        "uploadPath": "Expenses \/ INSURANCE"
+    },
+    {
+        "name": "ADMINISTRATIVE CHARGES",
+        "id": "16",
+        "key": "16",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "2",
+        "childrens": "17,18,19",
+        "parent": "0",
+        "uploadPath": "Expenses \/ ADMINISTRATIVE CHARGES",
+        "subfolders": [
+            {
+                "name": "Office supplies",
+                "id": "17",
+                "key": "17",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "16",
+                "uploadPath": "Expenses \/ ADMINISTRATIVE CHARGES \/ Office supplies"
+            },
+            {
+                "name": "Phone",
+                "id": "18",
+                "key": "18",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "16",
+                "uploadPath": "Expenses \/ ADMINISTRATIVE CHARGES \/ Phone"
+            },
+            {
+                "name": "Internet",
+                "id": "19",
+                "key": "19",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "16",
+                "uploadPath": "Expenses \/ ADMINISTRATIVE CHARGES \/ Internet"
+            }
+        ]
+    },
+    {
+        "name": "AMORTIZATION",
+        "id": "20",
+        "key": "20",
+        "type": "folder",
+        "owner": "admin",
+        "hasChild": "2",
+        "childrens": "21,22,23,24",
+        "parent": "0",
+        "uploadPath": "Expenses \/ AMORTIZATION",
+        "subfolders": [
+            {
+                "name": "Machine and tool depreciation",
+                "id": "21",
+                "key": "21",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "20",
+                "uploadPath": "Expenses \/ AMORTIZATION \/ Machine and tool depreciation"
+            },
+            {
+                "name": "Furniture depreciation",
+                "id": "22",
+                "key": "22",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "20",
+                "uploadPath": "Expenses \/ AMORTIZATION \/ Furniture depreciation"
+            },
+            {
+                "name": "Depreciation of office machines, IT",
+                "id": "23",
+                "key": "23",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "20",
+                "uploadPath": "Expenses \/ AMORTIZATION \/ Depreciation of office machines, IT"
+            },
+            {
+                "name": "Vehicle depreciation",
+                "id": "24",
+                "key": "24",
+                "type": "folder",
+                "owner": "admin",
+                "hasChild": "1",
+                "childrens": null,
+                "parent": "20",
+                "uploadPath": "Expenses \/ AMORTIZATION \/ Vehicle depreciation"
+            }
+        ]
+    },
+    {
+        "name": "A",
+        "id": "92bf7ab9-2356-4a8d-9bf8-b986893c0110",
+        "key": "92bf7ab9-2356-4a8d-9bf8-b986893c0110",
+        "type": "folder",
+        "owner": "user",
+        "hasChild": "1",
+        "childrens": null,
+        "parent": "0",
+        "uploadPath": "Expenses \/ A"
+    },
+    {
+        "name": "E",
+        "id": "ef1dc36b-4277-4ba4-ab3c-49667094dd45",
+        "key": "ef1dc36b-4277-4ba4-ab3c-49667094dd45",
+        "type": "folder",
+        "owner": "user",
+        "hasChild": "1",
+        "childrens": null,
+        "parent": "0",
+        "uploadPath": "Expenses \/ E"
+    }
+]
